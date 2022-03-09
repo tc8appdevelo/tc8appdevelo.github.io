@@ -17,6 +17,36 @@
 	color: #4acaa8;
 }
 
+.contact-info-flex{
+	display: flex;
+	flex-direction: column;
+}
+
+.btn-title {
+	font-size: 18px;
+	padding-bottom: 20px;
+	
+}
+.btn-title-col {
+	background: lightgray;
+	padding: 20px;
+	margin-bottom: 30px;
+	max-width: 300px;
+	
+}
+
+
+#linked-in,
+#github,
+#angel-list,
+#envelope {
+	font-size: 55px;
+	color: white;
+}
+
+
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
