@@ -23,7 +23,7 @@
 }
 
 .btn-title {
-	font-size: 18px;
+	font-size: 1.3em;
 	padding-bottom: 20px;
 	
 }
@@ -32,19 +32,29 @@
 	padding: 20px;
 	margin-bottom: 30px;
 	max-width: 300px;
-	
+
 }
 
 
 #linked-in,
 #github,
 #angel-list,
-#envelope {
+#envelope,
+#resume {
 	font-size: 55px;
 	color: white;
 }
 
-
+#resume-small {
+	border-color: #4acaa8;
+	color: #4acaa8;
+	border: none;
+}
+.resume-col {
+	display: flex;
+	flex-direction: column;
+	background: lightgray;
+}
 
 
 html, body, div, span, applet, object,
