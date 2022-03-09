@@ -34,8 +34,21 @@
 	max-width: 300px;
 
 }
+#pdf-small {
+	font-size: 1.3em;
+}
+.email-txt {
+	font-size: 1.3em;
+	margin-bottom: 20px;
+	border: none;
+}
 
-
+.email-col {
+	
+	padding: 20px;
+	margin-bottom: 30px;
+	max-width: 300px;
+}
 #linked-in,
 #github,
 #angel-list,
